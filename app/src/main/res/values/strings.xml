@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Edit Profile</string>
+    <string name="editName">Name</string>
+    <string name="editEmail">Email</string>
+    <string name="submitButton">Submit</string>
+    <string name="depView">Department:</string>
+    <string name="sisButton">SIS</string>
+    <string name="your_current_mood">Your Current Mood:</string>
+    <string name="othersButton">Others</string>
+    <string name="bioButton">BIO</string>
+    <string name="csButton">CS</string>
+    <string name="student_information">Student Information</string>
+    <string name="name">Name:</string>
+    <string name="email">Email:</string>
+    <string name="department">Department:</string>
+    <string name="mood">Mood:</string>
+    <string name="name_edit">nameEdit</string>
+    <string name="mood_edit">moodEdit</string>
+    <string name="email_edit">emailEdit</string>
+    <string name="dep_edit">depEdit</string>
+    <string name="sis">SIS</string>
+    <string name="cs">CS</string>
+    <string name="bio">BIO</string>
+    <string name="save">Save</string>
+</resources>
